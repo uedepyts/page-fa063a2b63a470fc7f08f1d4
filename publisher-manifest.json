@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "3561415819113598be1d6818",
+  "owner": "uedepyts",
+  "repo": "page-fa063a2b63a470fc7f08f1d4",
+  "title": "微橙云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fa063a2b63a470fc7f08f1d4",
+      "a": "微橙云",
+      "b": "稳定全球clash加速器",
+      "entity": "微橙云",
+      "brand": "微橙云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0c89b90d873126e4ac8918b531b2f7058e9e00529accb3495cd53ee9ca8cac2a",
+      "content": {
+        "primary_entity": "微橙云",
+        "keyword1": "微橙云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端：Windows、macOS、Android、iOS 各有对应配置，依客户端文档导入订阅即可。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后，按设备导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "从合适套餐开始",
+          "AI_DESCRIPTION": "，微橙云提供多种套餐与节点线路，按流量和在线设备数区分适用场景。基础版适合单人日常浏览，旗舰版支持更多设备与流媒体需求，团队版面向多设备高流量使用。订阅配置依客户端文档完成，选择时留意流量与设备上限即可。",
+          "AI_FEATURES_INTRO": "从套餐、设备与订阅周期三个方面了解微橙云。",
+          "AI_FEATURES_TITLE": "选择前先看这三点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB支持3台设备，旗舰版每月300GB支持5台设备，团队版每月1000GB支持20台设备。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_2": "单人使用基础版即可，有流媒体与游戏需求可选旗舰版，多设备团队作业选团队版。",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TEXT_3": "三档套餐均提供按年付方案，长期使用可对比月付与年付价格，选择适合的订阅周期。",
+          "AI_FEATURE_TITLE_3": "按周期看订阅",
+          "AI_GUIDE_INTRO": "从选择服务到完成配置的三步流程。",
+          "AI_GUIDE_TITLE": "配置三步走",
+          "AI_HERO_INTRO": "微橙云是面向跨境访问场景的加速服务，提供基础版、旗舰版与团队版套餐。按流量、在线设备数和订阅周期选择合适方案，再依客户端文档配置订阅，即可在常用设备上使用。",
+          "AI_HERO_SUBTITLE": "微橙云全球加速更稳定",
+          "AI_HIGHLIGHT_1": "基础版每月100GB流量，支持3台设备在线。",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线与流媒体解锁。",
+          "AI_HIGHLIGHT_3": "团队版支持20台设备与定制路由。",
+          "AI_PLANS_INTRO": "对比三档套餐的流量、设备数与价格，基础版适合轻量使用，旗舰版适合流媒体与游戏，团队版面向多设备高流量场景。",
+          "AI_PLANS_TITLE": "套餐对比选择",
+          "AI_STEP_TEXT_1": "根据日常流量、在线设备数和订阅周期，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_2": "确认设备平台与套餐设备上限，查看对应客户端的适配要求。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "按所选客户端的文档导入订阅信息，完成连接配置。",
+          "AI_STEP_TITLE_3": "依文档配置订阅",
+          "AI_VISUAL_TITLE": "微橙云套餐与设备选择",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "微橙云套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_1": "可以。在账户有效期内通常支持升级到更高档套餐，具体补差价规则和操作流程请参考购买页说明或联系客服。",
+          "AI_FAQ_QUESTION_2": "一个账号最多能在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版5台，团队版20台。超出限制可能导致连接失败，建议按需选择套餐。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付相当于支付10个月费用，享受12个月服务。基础版年付150元，旗舰版350元，团队版850元，比按月支付更划算。",
+          "AI_FAQ_QUESTION_4": "旗舰版的流媒体解锁支持哪些平台？",
+          "AI_FAQ_ANSWER_4": "旗舰版宣称全节点原生流媒体解锁，通常覆盖主流视频平台。实际解锁效果可能因平台策略调整而变化，建议以当前测试为准。",
+          "AI_FAQ_QUESTION_5": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_5": "购买后获取订阅链接，在所选客户端中通过导入功能添加该链接即可。不同客户端操作路径略有差异，具体请查阅客户端文档。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--mes358al8emmw.com",
+    "host": "xn--mes358al8emmw.com"
+  },
+  "file_hashes": {
+    "index.html": "4ef621fa73422593f9fa0d66a0dde6c358381d9d44975157bb07c6ba997f873c",
+    "sitemap.xml": "269cbcfc73027af1c2a7dc5d0e28c5cb94d3340a4dc062d4dbd9dcf7cd21d772",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "699a0e1afa4e7ccaeb4b560d147e4cba7fe1ec15ed6aeb256f7f4f4828a6f9e4",
+    "robots.txt": "cc0db6a51584b23d2aa7ea40103ad29c94cfda289d74ce6ef202c9204ce8db0d",
+    "872ef91335635e5bfbe894d75d678c4c.txt": "265ab12a82e5a01d69df6486baefb94a7ab9b13634048b28ae306d53637fbb58"
+  },
+  "revision": "c3c592e727f33e593f7987c86d4861148313d0b9617caf8ce708dc027ceb7b7f"
+}
